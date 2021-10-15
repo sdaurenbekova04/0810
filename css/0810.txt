@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>0810</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            
+        </div>
+        <div class="navbar">
+            <ul>
+        
+            <a href="1.html" class="link"><li>Главная</li></a>
+            <a href="about me.html"class="link"><li>О себе  </li></a>
+            <a href="" class="link"><li>Контакты  </li></a>
+            <a href="https://www.instagram.com/p/CRvutKNnHpzQ19NKl1bgs0OCAhwzmSePsYglWo0/?utm_medium=copy_link"class="link"><li>Месенджеры  </li></a>
+
+            </ul>
+        </div>
+        <div class="contact"></div>
+        <span> Номер телефона: 87085700869</span>
+    </header> 
+ 
+    <br> <br> <br><br> <br> <br>
+ 
+   <center><h2>Афиша фильмов, которые вы можете сейчас посмотреть в кинотеатре</h2></center> 
+   <br> <br>
+<div class="container">      
+<div class="block one"><h3>"Не время умирать"</h3>
+    <br> <br> <br>
+<img src="111.jpg" width="280" height="300">
+</div>
+
+
+<div class="block two"><h3>"Дюна"</h3>
+    <br> <br> <br>
+<img src="222.jpg" width="280" height="300" >
+</div>
+
+
+<div class="block three"><h3>"Веном 2"</h3>
+    <br> <br> <br>
+<img src="333.jpg" width="280" height="300">
+</div>
+
+</div> 
+<br><br>
+<h3>Ниже будет краткий обзор фильмов:</h3>
+<hr width="100%" >
+<br><br>
+
+<h2>"Не время умирать"</h2>
+<i><p>
+
+</p></i>
+
+<h2>"Дюна"</h2>
+<i></P>Наследник знаменитого дома Атрейдесов Пол отправляется вместе с семьей на одну из самых опасных планет во Вселенной — Арракис. Здесь нет ничего, кроме песка, палящего солнца, гигантских чудовищ и основной причины межгалактических конфликтов — невероятно ценного ресурса, который называется меланж. 
+В результате захвата власти Пол вынужден бежать и скрываться, и это становится началом его эпического путешествия. Враждебный мир Арракиса приготовил для него множество тяжелых испытаний, но только тот, кто готов взглянуть в глаза своему страху, достоин стать избранным.</P></i>
+
+
+
+<h2>""Веном 2""</h2>
+<i><p>
+
+</p></i>
+
+
+<br> <br> <br><br> <br> <br><br> <br> <br><br>
+<div class="footer">
+    <br>
+<div class="container-title"> 
+    <br>
+   <center><a href="https://kino.kz/cinemas"><h4>Кинотеатры</h4></a></center>
+</div>
+
+<div class="block-title">
+    <br>
+    <center><a href="https://kino.kz/"><h4>По данной ссылке вы можете более подробно ознакомиться сo временем сеансов</42></a></center> 
+<br> <br> <br><br> <br><br> <br><br> <br>
+
+</div>
+
+<div class="block six"> 
+<br>
+ <center><a href="https://kino.kz/"><img src="5555.png" width="250px" height="80px"></a></center> 
+
+
+</div>
+</div>
+
+</body>
+</html>
